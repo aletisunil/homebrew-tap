@@ -1,6 +1,6 @@
 cask "dictify" do
-  version "1.1"
-  sha256 "70cdea8b707fb7e8bb7e55338d169fe1f5564b6c5cb44785999cf82835bf9a49"
+  version "1.2"
+  sha256 "a35fc7d5ddc6dbdcfc3ce211454f91b2274f0d0bcd84173bef2925582c1eb9dd"
 
   url "https://github.com/aletisunil/Dictify/releases/download/v#{version}/Dictify.dmg"
   name "Dictify"
