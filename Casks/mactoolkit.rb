@@ -1,6 +1,6 @@
 cask "mactoolkit" do
-  version "1.6"
-  sha256 "c8b8c20099c22e97cb4126a51896bcc54e78973bb77d685fa870daabc17a0810"
+  version "1.7"
+  sha256 "ef84dc01eb30246e2a68bf0d51000026768a644c5dd3a15e10d18c9a99c2ec85"
 
   url "https://github.com/aletisunil/macToolKit/releases/download/v#{version}/macToolKit.dmg"
   name "macToolKit"
